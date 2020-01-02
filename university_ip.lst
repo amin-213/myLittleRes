@@ -1,8 +1,8 @@
 we can start now :)
-SITE04 
+SITE04 -s 1 -e 150
 SITE11 
-SITE12 
-SITE15 
+SITE12 -s 1 -e 150
+SITE15 -s 1 -e 150
 ANBAR 
 DESKTOP-6Q280HR 
 DQ4 
